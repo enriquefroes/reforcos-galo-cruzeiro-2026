@@ -1,0 +1,58 @@
+clube,movimento,janela,jogador,operacao,valor_milhoes_euros,posicao,data,obs
+Atlético-MG,chegada,janeiro,Mateo Cassierra,compra,7.0,ATA,,
+Atlético-MG,chegada,janeiro,Alan Minda,compra,7.0,PD/PE,,
+Atlético-MG,chegada,janeiro,Angelo Preciado,compra,5.0,LD,,
+Atlético-MG,chegada,janeiro,Victor Hugo,compra,2.15,MEI,,
+Atlético-MG,chegada,janeiro,Vitor Hugo,compra,1.0,ZAG,,
+Atlético-MG,chegada,janeiro,Maycon,livre,0.0,MC,,
+Atlético-MG,chegada,janeiro,Renan Lodi,livre,0.0,LE,,
+Atlético-MG,chegada,meio do ano,Ruan Tressoldi,efetivação (compra pós-empréstimo),3.5,ZAG,,"já estava no elenco por empréstimo: entra nos gastos, fora do ranking de desempenho"
+Atlético-MG,chegada,meio do ano,Fred,compra,2.0,MC,,
+Atlético-MG,chegada,meio do ano,Léo Duarte,livre,0.0,ZAG,,
+Atlético-MG,chegada,meio do ano,Kevin Castaño,livre,0.0,MC,,
+Atlético-MG,chegada,meio do ano,Thiago Borbas,livre,0.0,ATA,,
+Atlético-MG,saída,janeiro,Brahian Palacios,venda após empréstimo,4.85,PD/PE,,"já estava fora do elenco em 2025: entra no saldo financeiro, fora da análise de desempenho"
+Atlético-MG,saída,janeiro,Guilherme Arana,venda,5.0,LE,,
+Atlético-MG,saída,janeiro,Bruno Fuchs,venda após empréstimo,4.0,ZAG,,"já estava fora do elenco em 2025: entra no saldo financeiro, fora da análise de desempenho"
+Atlético-MG,saída,janeiro,Rony,venda,3.0,PD/PE,,
+Atlético-MG,saída,janeiro,Fausto Vera,empréstimo com taxa,0.425,MC,,
+Atlético-MG,saída,janeiro,Matheus Mendes,venda após empréstimo,,GOL,,"já estava fora do elenco em 2025: entra no saldo financeiro, fora da análise de desempenho"
+Atlético-MG,saída,janeiro,Gabriel Menino,empréstimo,,MC,,
+Atlético-MG,saída,janeiro,Junior Santos,empréstimo,,PD/PE,,
+Atlético-MG,saída,janeiro,Biel,fim de empréstimo,,PD/PE,,
+Atlético-MG,saída,janeiro,João Marcelo,empréstimo,,ATA,,
+Atlético-MG,saída,janeiro,Saravia,empréstimo,,LD,,
+Atlético-MG,saída,janeiro,Caio Paulista,fim de empréstimo,,LE,,
+Atlético-MG,saída,janeiro,Cadu,empréstimo,,ATA,,
+Atlético-MG,saída,meio do ano,Junior Alonso,sem custo,0.0,ZAG,,
+Atlético-MG,saída,meio do ano,Hulk,sem custo,0.0,ATA,,
+Atlético-MG,saída,meio do ano,Patrick,empréstimo,,MC,,
+Atlético-MG,saída,meio do ano,Ivan Roman,empréstimo,,ZAG,,
+Atlético-MG,saída,meio do ano,Matheus Iseppe,empréstimo,,MEI,,
+Cruzeiro,chegada,janeiro,Gerson,compra,27.0,MC,,
+Cruzeiro,chegada,janeiro,Chico da Costa,compra,0.85,ATA,,emprestado no meio do ano
+Cruzeiro,chegada,janeiro,Néiser Villarreal,livre,0.0,ATA,,
+Cruzeiro,chegada,janeiro,Matheus Cunha,livre,0.0,GOL,,emprestado no meio do ano
+Cruzeiro,chegada,janeiro,Fágner,efetivação,0.0,LD,,"já estava no elenco: entra nos gastos, fora do ranking de desempenho"
+Cruzeiro,chegada,janeiro,Bruno Rodrigues,livre,0.0,PD/PE,,
+Cruzeiro,chegada,meio do ano,Gabriel Pec,compra,10.5,PD/PE,,
+Cruzeiro,chegada,meio do ano,Gabriel Rojas,compra,5.25,LE,,conferir: não parece estar no total da 2ª janela da reportagem
+Cruzeiro,chegada,meio do ano,Zé Lucas,compra,4.4,MC,,
+Cruzeiro,chegada,meio do ano,Luis Sinisterra,efetivação (compra pós-empréstimo),3.7,PD/PE,,"já estava no elenco por empréstimo: entra nos gastos, fora do ranking de desempenho"
+Cruzeiro,chegada,meio do ano,Lucho Rodríguez,empréstimo,,PD/PE,,
+Cruzeiro,chegada,meio do ano,Wesley,empréstimo,,PD/PE,,
+Cruzeiro,chegada,meio do ano,Matías Viña,empréstimo,,LE,,
+Cruzeiro,chegada,meio do ano,João Costa,empréstimo,,PD/PE,,
+Cruzeiro,saída,janeiro,Zé Ivaldo,venda após empréstimo,0.86,ZAG,,"já estava fora do elenco em 2025: entra no saldo financeiro, fora da análise de desempenho"
+Cruzeiro,saída,janeiro,Lautaro Díaz,empréstimo repassado,,PD/PE,,"já estava fora do elenco desde o meio de 2025 (Santos, depois Racing): fora da análise de desempenho"
+Cruzeiro,saída,janeiro,Eduardo,sem custo,0.0,MC,,
+Cruzeiro,saída,janeiro,Yannick Bolasie,sem custo,0.0,ATA,,
+Cruzeiro,saída,janeiro,Gabriel Barbosa,sem custo,0.0,ATA,,
+Cruzeiro,saída,meio do ano,Kaiki Bruno,venda,12.0,LE,,+ 2 mi em bônus
+Cruzeiro,saída,meio do ano,Christian,venda,9.6,MC,,
+Cruzeiro,saída,meio do ano,Kauã Prates,venda,7.0,LE,,
+Cruzeiro,saída,meio do ano,Bruno Alves,empréstimo com taxa,0.3,ZAG,,
+Cruzeiro,saída,meio do ano,Matheus Cunha,empréstimo,,GOL,,chegou livre em janeiro
+Cruzeiro,saída,meio do ano,Walace,empréstimo,,MC,,
+Cruzeiro,saída,meio do ano,Chico da Costa,empréstimo,,ATA,,chegou em janeiro por 0.85 mi
+Cruzeiro,saída,meio do ano,Japa,empréstimo,,MC,,
