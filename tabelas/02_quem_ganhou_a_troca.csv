@@ -1,0 +1,13 @@
+id_par,clube,funcao,jogadores_saiu,jogadores_chegou,valor_milhoes_euros_saiu,valor_milhoes_euros_chegou,GA_90_saiu,GA_90_chegou,nota_media_saiu,nota_media_chegou,score_saiu,score_chegou,veredito
+1,Atlético-MG,Lateral esquerdo,Guilherme Arana,Renan Lodi,5.0,0.0,0.13,0.21,6.82,7.08,65.72,82.38,Chegada rendeu mais
+2,Atlético-MG,Centroavante,Hulk,Mateo Cassierra,0.0,7.0,1.0,0.38,7.16,6.67,93.23,48.15,Saída rendeu mais
+3,Atlético-MG,Ponta,Rony + Junior Santos + Biel,Alan Minda,3.0,7.0,0.2,0.43,6.66,6.73,50.36,69.44,Chegada rendeu mais
+4,Atlético-MG,Volante,Fausto Vera,Maycon + Kevin Castaño,0.42,0.0,0.04,0.12,7.02,6.92,62.42,35.66,Saída rendeu mais
+5,Atlético-MG,Meio-campo,Gabriel Menino,Fred + Victor Hugo,0.0,4.15,0.36,0.33,6.99,7.0,57.44,57.0,Equilibrado
+6,Atlético-MG,Zagueiro,Junior Alonso,Vitor Hugo,0.0,1.0,0.0,0.11,6.78,6.95,34.31,84.8,Chegada rendeu mais
+7,Atlético-MG,Lateral direito,Saravia,Angelo Preciado,0.0,5.0,0.0,0.07,,6.74,,53.2,Inconclusivo (amostra pequena)
+8,Cruzeiro,Centroavante,Gabriel Barbosa,Néiser Villarreal,0.0,0.0,0.88,0.46,7.1,6.54,81.61,32.81,Saída rendeu mais
+9,Cruzeiro,Meio-campo,Eduardo,Gerson,0.0,27.0,0.44,0.16,6.77,7.12,17.47,65.32,Chegada rendeu mais
+10,Cruzeiro,Meio-campo,Christian,Zé Lucas,9.6,4.4,0.67,0.0,7.18,,82.86,,Inconclusivo (amostra pequena)
+11,Cruzeiro,Lateral esquerdo,Kaiki Bruno + Kauã Prates,Gabriel Rojas,19.0,5.25,0.54,0.0,,6.58,,34.47,Inconclusivo (amostra pequena)
+12,Cruzeiro,Atacante / ponta,Yannick Bolasie,Bruno Rodrigues + Wesley,0.0,0.0,0.24,0.43,6.48,6.68,28.46,46.26,Chegada rendeu mais
